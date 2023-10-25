@@ -1,0 +1,42 @@
+.twoCardDiv {
+    padding: 14px;
+    width: 100%;
+}
+.twoCardWrap {
+    height: 544px;
+    border-radius: 4% !important;
+    overflow: hidden;
+    width: 100%;
+}
+.twoCardImg {
+    height: 544px;
+}
+.twoOverlayTextWrap {
+    position: absolute;
+    color: white;
+    margin: 0 auto;
+    width: 100%;
+    bottom: 0px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 30%, rgb(0, 0, 0) 100%);
+}
+.twoCardWholeText {
+    overflow: hidden;
+    box-shadow: none;
+    text-align: left;
+    margin: 56px 40px 40px;
+    width: 391px;
+}
+.twoOverlayTextWrap > div > Button {
+    font-family: Calibre-R, sans-serif;
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 12px;
+    margin-top: 20px;
+    line-height: 1.5;
+    letter-spacing: normal;
+}
+.twoOverlayTextWrap > div > Button:hover {
+    background-color: grey;
+}

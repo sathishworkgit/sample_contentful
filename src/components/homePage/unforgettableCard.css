@@ -1,0 +1,29 @@
+.unforgettableCardWrap {
+    padding: 14px;
+    width: 30%;
+}
+.unfCard {
+    width: 100%;
+    height: 450px;
+    border-radius: 10px !important;
+    box-shadow: none !important;
+}
+.cardImg {
+    border-radius: 10px;
+    height: 344px;
+}
+.unfTitle {
+    font-family: Calibre-R, sans-serif !important;
+    font-size: 16px !important;
+    line-height: 1.5 !important;
+    font-weight: 400 !important;
+    color: rgb(0, 0, 0) !important;
+}
+.unfSubtitle {
+    font-family: Calibre-R, sans-serif !important;
+    font-size: 12px !important;
+    line-height: 1.67 !important;
+    letter-spacing: normal !important;
+    font-weight: 400 !important;
+    color: rgb(96, 96, 96) !important;
+}
